@@ -1,6 +1,7 @@
 ﻿using System;
 
 namespace TravisCILab
+
 {
     public class Program
     {
